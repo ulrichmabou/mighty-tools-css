@@ -51,7 +51,7 @@ body {
 .container {
     max-width: 640px;
     margin: 0 auto;
-    padding: 0 24 px;
+    padding: 0 24px;
 }
 
 .header .logo {
